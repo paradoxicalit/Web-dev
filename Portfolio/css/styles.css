@@ -1,0 +1,156 @@
+body {
+    text-align: center;
+    margin: 0;
+    font-family:    ;
+   
+    
+}   
+
+h1 {
+    font-family: 'Indie Flower', cursive;
+    font-size: 550.5%;;
+    color: #11999E;
+
+}
+
+h2 {
+    color: #11999E;
+    font-weight: normal;
+    font-size: 250%;
+
+}
+
+h3 { 
+    color: #11999E;
+    
+
+}
+
+hr {
+    border-style: dotted none none; color: black;
+    height:0px;
+    border-width: 5px;
+    width: 5%;
+    margin-bottom: 10%;
+}
+
+.blue-box { 
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    position: 
+
+
+}
+
+.yellow-box {
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    position: absolute;
+    left: 110px;
+    
+}
+
+.red-box {
+    height: 100px;
+    width: 100px;
+    background: red;
+    position: absolute;
+    left: 210px;
+    top: 280px;
+
+}
+
+.cloud-bottom{
+    position: absolute ;
+    left: 20%;
+}
+
+.cloud-top {
+    position: absolute;
+    right: 20%;
+    top:13%
+}
+.top-container {
+    background-color: #E4F9F5;
+    padding-top: 65px;
+    position: relative;
+}
+
+.middle-container {
+    
+    padding-top: 10%;
+    position: relative;
+    
+}
+
+.bottom-container { 
+    background-color:  #66BFBF;
+    padding-bottom: 5%;
+    margin-top: 5%;
+    text-decoration:
+}
+    
+
+p {
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 100%;
+}
+
+span {
+    text-decoration: underline;
+}
+
+.profile-pic{
+    margin: auto;
+    height: 250px;
+    border-radius: 50%;
+    border: dashed #66BFBF 5px;
+}
+
+.first-skill {
+    width: 25%;
+    border-radius: 50%;
+    float: left;
+    margin-right: 30px;
+  
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 200%;
+
+}
+
+.computer {
+    margin: auto;
+    float: right;
+    margin-left: 30px;
+}
+
+.profile {
+    
+    margin: auto 30% 10% 30%;
+    line-height: 2;
+    
+}
+
+.copyright {
+    position: relative;
+    
+    
+}
+
+.third-skill {
+    float: left;
+    width: 25%;
+    margin-right: 30px;
+}
+
+#hr-bottom {
+    margin-top: 13%;
+}
+
