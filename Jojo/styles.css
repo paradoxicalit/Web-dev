@@ -1,0 +1,91 @@
+@font-face {
+    src: url(sf_fedora/SFFedora.ttf);
+
+    font-family: fedora;
+}
+
+body {
+    margin: 80px auto;
+    padding: 0px;
+    /* background-color: #5c00e6; */
+    /* background-color: #8600b3; */
+    /* background-color: #5900b3; */
+    background-color: #4700b3;
+}
+
+h1, h2, h3 {
+    font-family: fedora;
+    /* color:  #ff0000; */
+    color: #e600e6;
+    /* color: #ac00e6; */
+    text-align: center;
+    font-size: 4rem;
+    /* text-shadow: 3px 0 white ; */
+}
+h1{
+    text-shadow: 14px 0 #4d0066 ;
+}
+
+h2 {
+    font-size: 2rem;
+    /* color: #330080; */
+    color: #9900cc
+}
+.letter {
+    font-family: sans-serif;
+    font-size: 190px;
+    position: absolute;
+    bottom: 0.1px;
+    /* color: #4d0066; */
+    color: #730099;
+    font-weight:100;
+    margin-left: 6%;
+}
+.Jojo {
+    color:  #e600e6;
+    
+}
+
+.Meme {
+    /* color: #ff0000; */
+    /* color: black; */
+    /* color:  #cc0000; */
+    color: #c61aff;
+    text-decoration:;
+}
+
+/* Main body */
+.Images {
+    margin: 6rem 7rem;
+    display: flex;
+
+    
+
+}
+
+img{
+    max-width: 210px;
+    width: 210px;
+    max-height: 210px;
+    height: 210px;
+    /* border: solid #2e036e 7px; */
+    /* border: solid #9900cc 12px; */
+    border: solid #4d0066 12px;
+
+    border-radius: 10%;
+    margin: 40px;
+
+}
+
+#Johnathan {
+
+}
+
+
+
+.footer  {
+    font-family: sans-serif;
+    font-weight:100;
+    font-size: 25px;
+    
+}
